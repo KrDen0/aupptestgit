@@ -1,0 +1,10 @@
+Testing mail
+
+
+Dear Sir/Miss,
+
+                I send this mail to testing mail.
+                If you get this mail, please kindly feedback to me ASAP.
+
+Thanks and best regards,
+Bunnarith
